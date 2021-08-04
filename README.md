@@ -28,7 +28,7 @@
 
 ## AlgorithmLearn
 #### ./Algorithm_Sedgewick
-- Coursera 강의 "Algorithms, Part 1"과 책을 공부하며 실습
+- Coursera 강의 "Algorithms, Part 1" & "Algorithm, Part 2"와 책을 공부하며 실습
 #### ./Baekjoon
 - Baekjoon Online Judge의 알고리즘 문제 풀이
 #### ./Do_it_Algorithm
