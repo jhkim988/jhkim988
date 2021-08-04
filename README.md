@@ -10,7 +10,7 @@
 ## 현재 공부 중
 - BOJ(백준) 알고리즘 공부
 
-## About me
+## 연락/외부링크
 - e-mail: -
 - solved.ac: https://solved.ac/profile/fccva
 
