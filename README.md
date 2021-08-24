@@ -8,6 +8,7 @@
 - Python - Selenium
 
 ## 현재 공부 중
+- Java/JavaScript
 - BOJ(백준) 알고리즘 공부
 
 ## 연락/외부링크
@@ -17,6 +18,8 @@
 ## ProgrammingLearn
 #### ./FundamentalOfJava
 - "Java의 정석" 책을 공부하며 실습
+#### ./IntroductionToModernJS
+- "모던 자바스크립트 입문" 책을 공부하며 실습
 #### ./JavaScriptES6+Advanced
 - inflearn 강의 "자바스크립트 ES6+ 심화"를 공부하며 실습
 #### ./OperatingSystem
