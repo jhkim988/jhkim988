@@ -10,7 +10,7 @@
 - BOJ(백준) 알고리즘 공부
 
 ## 연락/외부링크
-- e-mail: -
+- e-mail: - jinhankim988@gmail.com
 - solved.ac: https://solved.ac/profile/fccva
 
 ## ProgrammingLearn
