@@ -1,14 +1,7 @@
-## 자기소개
-- 개발자 취업을 위해 공부 중입니다.
-
 ## 기술스택
 - Java/Spring/SpringBoot
 - JavaScript/Node.js/Express
-
-## 현재 공부 중
-- Java/JavaScript
-- BOJ(백준) 알고리즘 공부
-
+- 
 ## 연락/외부링크
 - e-mail: - jinhankim988@gmail.com
 - solved.ac: https://solved.ac/profile/fccva
