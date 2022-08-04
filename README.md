@@ -1,10 +1,9 @@
 ## 기술스택
 - Java/Spring/SpringBoot
-- JavaScript/Node.js/Express
-- 
-## 연락/외부링크
+- JavaScript/Node.js/Express/GraphQL
+
+## 연락
 - e-mail: - jinhankim988@gmail.com
-- solved.ac: https://solved.ac/profile/fccva
 
 ## ProgrammingLearn
 - 공부한 것을 기록합니다.
@@ -14,6 +13,8 @@
 - 알고리즘을 공부하고 기록합니다
 - ./implementation: 자료구조/알고리즘을 구현했습니다.
 - ./BOJ: BOJ에서 푼 문제들을 기록합니다.
+- BOJ: https://www.acmicpc.net/user/fccva
+- solved.ac: https://solved.ac/profile/fccva
 
 
 <!--
