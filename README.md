@@ -1,6 +1,6 @@
 ## 기술스택
 - Java/Spring/SpringBoot
-- JavaScript/Node.js/Express/GraphQL
+- JavaScript/Node.js/React/Express/GraphQL
 
 ## 연락
 - e-mail: - jinhankim988@gmail.com
