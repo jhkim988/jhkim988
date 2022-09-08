@@ -16,6 +16,8 @@
 - BOJ: https://www.acmicpc.net/user/fccva
 - solved.ac: https://solved.ac/profile/fccva
 
+## GraphQL-Board
+- React, Node.js, GraphQL 기반 게시판 토이프로젝트
 
 <!--
 **jhkim988/jhkim988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
