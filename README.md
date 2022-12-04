@@ -16,9 +16,9 @@
 
 ## [AlgorithmLearn](https://github.com/jhkim988/AlgorithmLearn)
 - 알고리즘을 공부하고 기록합니다
-- ./implementation: 자료구조/알고리즘을 구현했습니다.
-- ./BOJ: BOJ에서 푼 문제들을 기록합니다.
-- BOJ: https://www.acmicpc.net/user/fccva
+- [./implementation](https://github.com/jhkim988/AlgorithmLearn/tree/main/Implementation): 자료구조/알고리즘을 구현했습니다.
+- [./BOJ](https://github.com/jhkim988/AlgorithmLearn/tree/main/Baekjoon): 백준 온라인 저지에서 푼 문제들을 기록합니다.
+- 백준 온라인 저지: https://www.acmicpc.net/user/fccva
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
