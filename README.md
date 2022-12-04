@@ -15,7 +15,6 @@
 - ./implementation: 자료구조/알고리즘을 구현했습니다.
 - ./BOJ: BOJ에서 푼 문제들을 기록합니다.
 - BOJ: https://www.acmicpc.net/user/fccva
-- solved.ac: https://solved.ac/profile/fccva
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
