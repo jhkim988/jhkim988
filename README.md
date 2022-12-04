@@ -1,3 +1,4 @@
+
 ## 기술스택
 - Java/Spring/SpringBoot
 - JavaScript/Node.js/React/Express/GraphQL/Apollo
@@ -5,9 +6,9 @@
 ## 연락
 - e-mail: - jinhankim988@gmail.com
 
-## ProgrammingLearn
-- 공부한 것을 기록합니다.
-- Java/Spring/SpringBoot, JavaScript, C, OS, GraphQL
+## DZ_Chat
+- TCP 소켓 통신 기반 CLI 채팅 프로젝트
+- DB 연동으로 회원 관리(Oracle/MariaDB)
 
 ## AlgorithmLearn
 - 알고리즘을 공부하고 기록합니다
@@ -15,6 +16,16 @@
 - ./BOJ: BOJ에서 푼 문제들을 기록합니다.
 - BOJ: https://www.acmicpc.net/user/fccva
 - solved.ac: https://solved.ac/profile/fccva
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
+
+## OOPLearn
+- 객체지향, 디자인 패턴을 공부하고 기록합니다.
+
+## ProgrammingLearn
+- 공부한 것을 기록합니다.
+- Java/Spring/SpringBoot, JavaScript, C, OS, GraphQL
 
 ## GraphQL-Board
 - React, Node.js, GraphQL 기반 게시판 토이프로젝트
