@@ -8,7 +8,6 @@
 
 ## [DZ_Board](https://github.com/jhkim988/DZBoard)
 - 웹 기반 채팅/회원관리/게시판 프로젝트
-- 현재 진행 중
 
 ## [DZ_Chat](https://github.com/jhkim988/DZ_Chat)
 - TCP 소켓 통신 기반 CLI 채팅 프로젝트
