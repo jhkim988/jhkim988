@@ -20,7 +20,12 @@
 - TCP 소켓 통신 기반 CLI 채팅 프로젝트
 - DB 연동으로 회원 관리(Oracle/MariaDB)
 
-## [AlgorithmLearn](https://github.com/jhkim988/AlgorithmLearn)
+## Study
+### [spring-security-learn](https://github.com/jhkim988/spring-security-learn)
+- spring security 를 공부하고 기록합니다.
+### [OOPLearn](https://github.com/jhkim988/OOPLearn)
+- 객체지향, 디자인 패턴을 공부하고 기록합니다.
+### [AlgorithmLearn](https://github.com/jhkim988/AlgorithmLearn)
 - 알고리즘을 공부하고 기록합니다
 - [./implementation](https://github.com/jhkim988/AlgorithmLearn/tree/main/Implementation): 자료구조/알고리즘을 구현했습니다.
 - [./BOJ](https://github.com/jhkim988/AlgorithmLearn/tree/main/Baekjoon): 백준 온라인 저지에서 푼 문제들을 기록합니다.
@@ -28,11 +33,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
-
-## [OOPLearn](https://github.com/jhkim988/OOPLearn)
-- 객체지향, 디자인 패턴을 공부하고 기록합니다.
-
-## [ProgrammingLearn](https://github.com/jhkim988/ProgrammingLearn)
+### [ProgrammingLearn](https://github.com/jhkim988/ProgrammingLearn)
 - 공부한 것을 기록합니다.
 - Java/Spring/SpringBoot, JavaScript, C, OS, GraphQL
 
