@@ -8,9 +8,10 @@
 
 ## DZ Project
 ### DZFinal
-- [dzfinal_back](https://github.com/jhkim988/dzfinal_back)
-- [dzfinal_front](https://github.com/jhkim988/dzfinal_front)
-- [dzfinal_devops](https://github.com/jhkim988/devops)
+- [dzfinal_back](https://github.com/jhkim988/dzfinal_back) core server
+- [dzfinal_auth](https://github.com/jhkim988/dzfinal_auth) auth server
+- [dzfinal_front](https://github.com/jhkim988/dzfinal_front) react
+- [dzfinal_devops](https://github.com/jhkim988/devops) docker files
 ### Reacdz
 - [reacdz-front](https://github.com/jhkim988/reacdz-front)
 - [reacdz-back](https://github.com/jhkim988/reacdz-back)
