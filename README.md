@@ -12,6 +12,8 @@
 - [dzfinal_auth](https://github.com/jhkim988/dzfinal_auth) auth server
 - [dzfinal_front](https://github.com/jhkim988/dzfinal_front) react
 - [dzfinal_devops](https://github.com/jhkim988/devops) docker files
+- 병원정보시스템 - 예약/접수/진료/수납/관리자페이지/채팅
+- 2023/02/22 ~ 2023/04/21
 ### Reacdz
 - [reacdz-front](https://github.com/jhkim988/reacdz-front)
 - [reacdz-back](https://github.com/jhkim988/reacdz-back)
