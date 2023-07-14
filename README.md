@@ -29,28 +29,11 @@
 | [Webpack Learn](https://github.com/jhkim988/webpack-learn) | [Go Learn](https://github.com/jhkim988/go-learn) | [Redux Learn](https://github.com/jhkim988/redux-learn) |
 | [React Docs Learn](https://github.com/jhkim988/react-docs-learn) | [Typescript Learn](https://github.com/jhkim988/typescript-learn) | [webRTC Learn](https://github.com/jhkim988/web_rtc_learn) |
 | [spring-security-learn](https://github.com/jhkim988/spring-security-learn) | [OOPLearn](https://github.com/jhkim988/OOPLearn) | [AlgorithmLearn](https://github.com/jhkim988/AlgorithmLearn) |
+| [ProgrammingLearn](https://github.com/jhkim988/ProgrammingLearn) |       |       |
 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
-### [ProgrammingLearn](https://github.com/jhkim988/ProgrammingLearn)
-- 공부한 것을 기록합니다.
-- Java/Spring/SpringBoot, JavaScript, C, OS, GraphQL
 
 ## [GraphQL-Board](https://github.com/jhkim988/Graphql-Board)
 - React, Node.js, GraphQL 기반 게시판 토이프로젝트
-
-<!--
-**jhkim988/jhkim988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
