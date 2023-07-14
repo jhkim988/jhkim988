@@ -13,16 +13,12 @@
 |  | [dzfinal_auth](https://github.com/jhkim988/dzfinal_auth) | auth server |
 |  | [dzfinal_front](https://github.com/jhkim988/dzfinal_front) | react |
 |  | [dzfinal_devops](https://github.com/jhkim988/devops) | docker files |
-|  | 병원정보시스템 | 예약/접수/진료/수납/관리자페이지/채팅 |
-|  | 2023/02/22 ~ 2023/04/21 |  |
-| Reacdz | [reacdz-front](https://github.com/jhkim988/reacdz-front) |  |
+|  |  |병원정보시스템 <br> 예약/접수/진료/수납/관리자페이지/채팅  <br> 2023/02/22 ~ 2023/04/21| 
+| Reacdz | [reacdz-front](https://github.com/jhkim988/reacdz-front) | 리액트 회원관리/게시판 프로젝트 |
 |  | [reacdz-back](https://github.com/jhkim988/reacdz-back) |  |
-|  | 리액트 회원관리/게시판 프로젝트 |  |
-| [DZSpring](https://github.com/jhkim988/DZSpring) |  | Spring 기반 도서 쇼핑몰 프로젝트 |
-|  |                | 회원관리/상품관리/주문관리/게시판 |
-| [DZ_Board](https://github.com/jhkim988/DZBoard) |  | 웹 기반 채팅/회원관리/게시판 프로젝트 |
-| [DZ_Chat](https://github.com/jhkim988/DZ_Chat) |  | TCP 소켓 통신 기반 CLI 채팅 프로젝트 |
-|  |                | DB 연동으로 회원 관리(Oracle/MariaDB) |
+| DZSpring | [DZSpring](https://github.com/jhkim988/DZSpring) | Spring 기반 도서 쇼핑몰 프로젝트 <br> 회원관리/상품관리/주문관리/게시판|
+| DZBoard | [DZ_Board](https://github.com/jhkim988/DZBoard) | 웹 기반 채팅/회원관리/게시판 프로젝트 |
+| DZ_Chat | [DZ_Chat](https://github.com/jhkim988/DZ_Chat) | TCP 소켓 통신 기반 CLI 채팅 프로젝트 <br> DB 연동으로 회원 관리(Oracle/MariaDB)|
 ## Study
 |  링크  |      |      |
 |------|------|------|
