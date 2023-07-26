@@ -31,8 +31,7 @@
 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fccva)](https://solved.ac/fccva)
 
 ## [GraphQL-Board](https://github.com/jhkim988/Graphql-Board)
 - React, Node.js, GraphQL 기반 게시판 토이프로젝트
