@@ -3,7 +3,7 @@
 - Java/Spring
 - JavaScript/Typescript/React
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim988&langs_count=4&hide=c,html)](https://github.com/jhkim988/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim988&langs_count=4&hide=c,html)
 
 ## 연락
 - e-mail: - jinhankim988@gmail.com
