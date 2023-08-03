@@ -1,7 +1,9 @@
 
 ## 기술스택
-- Java/Spring/SpringBoot
-- JavaScript/Node.js/React
+- Java/Spring
+- JavaScript/Typescript/React
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim988&langs_count=4&hide=c,html)](https://github.com/jhkim988/github-readme-stats)
 
 ## 연락
 - e-mail: - jinhankim988@gmail.com
@@ -26,6 +28,7 @@
 | [spring-security-learn](https://github.com/jhkim988/spring-security-learn) |  [webRTC Learn](https://github.com/jhkim988/web_rtc_learn) | [Typescript Learn](https://github.com/jhkim988/typescript-learn) |
 | [React Docs Learn](https://github.com/jhkim988/react-docs-learn) | [Redux Learn](https://github.com/jhkim988/redux-learn)   | [Go Learn](https://github.com/jhkim988/go-learn) |
 | [Webpack Learn](https://github.com/jhkim988/webpack-learn) | [browser file access / sqlite wasm](https://github.com/jhkim988/sqlite-wasm-demo)| [react-router-typescript](https://github.com/jhkim988/react-router-typescript)|
+|  [redux-typescript](https://github.com/jhkim988/redux-typescript) |   |   |
 
 
 
